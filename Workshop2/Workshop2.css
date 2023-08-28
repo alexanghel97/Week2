@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://images2.alphacoders.com/542/542730.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.container {
+ display: inline-block;
+}
+
+.lists {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+
+img {
+    margin-left: 100px;
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+.content {
+    border-left: 3px solid rgba(72, 187, 5, 0.829) ;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style: dotted;
+    display: inline-block;
+    margin-left: 30px;
+    width: 600px;
+    height: 925px;
+}
+
+h4 {
+    color: green;
+    margin-left: 15px;
+    margin-bottom: 22px;
+    font-size: 20px;
+}
+
+p {
+    margin-left: 15px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+}
